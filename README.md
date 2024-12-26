@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil17-alt&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  🌐 <a href="https://nabil17-alt.github.io/Portofolio/">My Portfolio</a>
+  🌐 <a href="https://nabil17-alt.github.io/Portofolio/">Portofolio Saya</a>
 </p>
 <p align="center">
-  <i>📫 Contact me at <a href="mailto:realmuhammadnabil@gmail.com">realmuhammadnabil@gmail.com</a></i>
+  <i>📫 Hubungi saya di <a href="mailto:realmuhammadnabil@gmail.com">realmuhammadnabil@gmail.com</a></i>
 </p>
 
